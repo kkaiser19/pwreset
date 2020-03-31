@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="TableofTables" max_length="40" name="x_469078_resetpass_tableoftables" sizeclass="0" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
-        <element attributes="base_start=true" label="New Table Name" max_length="80" name="u_table_name_1" type="table_name"/>
-    </element>
-</database>
